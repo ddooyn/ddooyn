@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 </td><td valign="top" width="33%">
 
-### DevOps  
+<!-- ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
-</td></tr></table>  
+</td></tr></table>   -->
 <br/>  
 <!-- 
 ## Connect with me  
