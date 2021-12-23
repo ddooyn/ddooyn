@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-<br/>  
  -->
+</div>  
+<br/>
  
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
