@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Hi there 👋 I'm Sooyoung Yoon 👩‍💻</div>  
+# <div align="center">Hi there 👋 I'm Sooyoung Yoon 👩‍💻</div>  
 
 - 🌱 I'm currently studying to be a front-end web developer
 - ⚡ Fun fact: I've started learning programming around 3 months 😝
 <br/>  
 
 ## My Skill Set (used at least once)
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />   -->
 </div>
 </td>
   </tr></table>   
@@ -100,7 +100,6 @@ Here are some ideas to get you started:
  -->
  
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddooyn&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddooyn&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
