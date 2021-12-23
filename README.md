@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### <div align="center">Hi there 👋 I'm Sooyoung Yoon 👩‍💻</div>  
 
 - 🌱 I'm currently studying to be a front-end web developer
-- ⚡ Fun fact: I've started learning programming around 4 months 😝
+- ⚡ Fun fact: I've started learning programming around 3 months 😝
 <br/>  
 
 ## My Skill Set (used at least once)
