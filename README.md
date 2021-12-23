@@ -56,9 +56,11 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </div>
-</td><td valign="top" width="33%">
-
-<!-- ### DevOps  
+</td>
+ 
+<!-
+ <td valign="top" width="33%">
+- ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
@@ -67,7 +69,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
-</td></tr></table>   -->
+</td>-->
+ </tr></table>   
 <br/>  
 <!-- 
 ## Connect with me  
@@ -89,10 +92,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
- -->
-</div>  
+</a>
+  </div>  
 <br/>
+ -->
  
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
