@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </div>
 </td></tr></table>  
 <br/>  
-
+<!-- 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 </a>  
 </div>  
 <br/>  
-
+ -->
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddooyn&hide_border=true&layout=compact" align="center" /></div>  
