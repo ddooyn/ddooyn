@@ -17,20 +17,23 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Sooyoung Yoon, front-end developer 👩‍💻 working since 2022 🚀</div>  
 -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
 
-# <div align="center">Hi there 👋 I'm Sooyoung Yoon 👩‍💻</div>  
+# <div align="center">Sooyoung Yoon</div>  
+- 사용자 편의성을 중심 가치로 두고, 디테일까지 놓치지 않는 좋은 프론트엔드 개발자가 되고 싶습니다 😊
+<br/>
 
-- 🌱 I'm currently studying to be a front-end web developer
-- ⚡ Fun fact: I've started learning programming around 3 months 😝
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddooyn&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 
-## My Skill Set (used at least once)
+## My Skill Set
 <table align="center"><tr><td valign="top" width="33%">
 
-### Frontend  
+<!-- ### Frontend   -->
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -42,8 +45,7 @@ Here are some ideas to get you started:
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />   -->
 </div>
-</td><td valign="top" width="33%">
-
+<!-- <td valign="top" width="33%">
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -99,8 +101,3 @@ Here are some ideas to get you started:
   </div>  
 <br/>
  -->
- 
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddooyn&hide_border=true&layout=compact" align="center" /></div>  
-<br/>  
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
