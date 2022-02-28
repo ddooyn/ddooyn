@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
 
-# <div align="center">Sooyoung Yoon</div>  
-- 사용자 편의성을 중심 가치로 두고, 디테일까지 놓치지 않는 좋은 프론트엔드 개발자가 되고 싶습니다 😊
+# <div align="center">Sooyoung Yoon</div>
+<div align="center"><strong>사용자 편의성을 중심 가치로 두고, 디테일까지 놓치지 않는 좋은 프론트엔드 개발자가 되고 싶습니다 😊</strong></div>
 <br/>
 
 ## Github Stats
