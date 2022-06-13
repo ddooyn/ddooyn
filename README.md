@@ -18,3 +18,5 @@
 <div align="center">
   <p>ayoooo240@gmail.com</p>
 </div>
+<h3 align="left">⭐ Github stats:</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ddooyn&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddooyn&hide_border=true&layout=compact" align="center" /></div> 
